@@ -4,7 +4,7 @@ replicaCount: 1
 image:
   pullPolicy: IfNotPresent
   repository: 818396592856.dkr.ecr.us-east-1.amazonaws.com/demo
-  version: main-d28517e
+  version: main-09d1509
 
 imagePullSecrets: []
 nameOverride: ""
